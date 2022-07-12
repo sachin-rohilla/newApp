@@ -1,0 +1,28 @@
+.container{
+    background-color:#fff;
+    height: 400px;
+    margin: 10px;
+    margin-top: 30px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow:10px 10px 5px rgba(0,0,0,0.3);
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.paras{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    /* line-height: 0.1em; */
+}
+.heading{
+    margin: 10px;
+}
+.main2{
+    margin: 10px;
+}
+.para{
+    line-height: 2em;
+}
